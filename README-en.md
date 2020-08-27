@@ -1,0 +1,31 @@
+# Awesome Software
+
+Keep track of any software that works better.
+
+## Free
+
+### Everything
+
+official website: <https://www.voidtools.com/> .
+
+"Everything" is search engine that locates files and folders by filename instantly for Windows.
+
+Unlike Windows search "Everything" initially displays every file and folder on your computer (hence the name "Everything").
+
+You type in a search filter to limit what files and folders are displayed.
+
+### Typora
+
+official website: <https://www.typora.io/> .
+
+Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers.
+
+Typora gives you a seamless experience as both a reader and a writer. It removes the preview window, mode switcher, syntax symbols of markdown source code, and all other unnecessary distractions. Instead, it provides a real live preview feature to help you concentrate on the content itself.
+
+## Pay
+
+### Beyond Compare
+
+ official website:<https://www.scootersoftware.com/index.php> .
+
+Beyond Compare is a multi-platform utility that combines directory compare and file compare functions in one package.  Use it to manage source code, keep directories in sync, compare program output, etc.
