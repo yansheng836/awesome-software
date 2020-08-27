@@ -1,4 +1,10 @@
+<div align="center">
+	<img width="500" height="350" src="./media/awesome-logo.svg" alt="Awesome">
+</div>
+
 # Awesome Software
+
+![Awesome](https://github.com/yansheng836/awesome-software/blob/master/media/awesome.svg) [![chinese](https://github.com/yansheng836/awesome-software/blob/master/media/chinese.svg)](https://github.com/yansheng836/awesome-software/blob/master/README.md) [![english](https://github.com/yansheng836/awesome-software/blob/master/media/english.svg)](https://github.com/yansheng836/awesome-software/blob/master/README-en.md)
 
 Keep track of any software that works better.
 
