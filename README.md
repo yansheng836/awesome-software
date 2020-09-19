@@ -62,6 +62,69 @@ FastStone Capture（FSCapture）是一种图像查看器，编辑器和屏幕截
 
 **系统兼容**：Windows 。
 
+### Folder Explorer
+
+官网：<https://d2.pub/zh/doc/folder-explorer/> 。
+
+GitHub： <https://github.com/d2-projects/folder-explorer> 。
+
+扫描目录，分析文件结构和统计信息，给任意文件添加备注，导出带注释的树形文本和其它多种数据格式，大大方便书写技术文档。
+
+![img](https://cdn.d2.pub/files/image-hosting/20190926165542.png)
+
+#### 功能
+
+- 扫描指定的目录（支持拖拽）以及再次扫描当前结果中的指定目录
+- 展示文件结构的树形统计，支持添加注释，隐藏单个文件或者文件夹内容
+- 文件类型统计
+- 文件体积分布统计
+- 导出文字构成的树形结构图，支持注释和自动对齐，支持自定义内容格式
+- 导出 json 文件和 xml 文件供其他软件或者程序使用
+- 导出 xmind 结构图，支持自定义节点、label 和注释的内容格式化
+- 自定义导出文件的名称预设
+- 注释信息记忆功能
+- 个性化设置的备份和导入
+- 其它丰富的设置选项
+
+**系统兼容**：Windows/Mac/Linux。
+
+### PicGo
+
+官网：<https://molunerfinn.com/PicGo/> 。
+
+GitHub：<https://github.com/Molunerfinn/PicGo> 。
+
+一个用于快速上传图片并获取图片 URL 链接的工具。
+
+![1600494406596](./assets/1600494406596.png)
+
+#### PicGo 本体支持如下图床
+
+- `七牛图床` v1.0
+- `腾讯云 COS v4\v5 版本` v1.1 & v1.5.0
+- `又拍云` v1.2.0
+- `GitHub` v1.5.0
+- `SM.MS V2` v2.3.0-beta.0
+- `阿里云 OSS` v1.6.0
+- `Imgur` v1.6.0
+
+#### 特色功能
+
+- 支持拖拽图片上传
+- 支持快捷键上传剪贴板里第一张图片
+- Windows 和 macOS 支持右键图片文件通过菜单上传 (v2.1.0+)
+- 上传图片后自动复制链接到剪贴板
+- 支持自定义复制到剪贴板的链接格式
+- 支持修改快捷键，默认快速上传快捷键：`command+shift+p`（macOS）| `control+shift+p`（Windows\Linux)
+- 支持插件系统，已有插件支持 Gitee、青云等第三方图床
+  - 更多第三方插件以及使用了 PicGo 底层的应用可以在 [Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) 找到。欢迎贡献！
+- 支持通过发送 HTTP 请求调用 PicGo 上传（v2.2.0+)
+- 更多功能等你自己去发现，同时也会不断开发新功能
+  - 开发进度可以查看 [Projects](https://github.com/Molunerfinn/PicGo/projects)，会同步更新开发进度
+  - 欢迎加入 [官方 Gitter 频道](https://gitter.im/picgo-all/PicGo?utm_source=share-link&utm_medium=link&utm_campaign=share-link) 与我交流
+
+**系统兼容**：Windows/Mac/Linux 。
+
 ## 付费
 
 ### Beyond Compare

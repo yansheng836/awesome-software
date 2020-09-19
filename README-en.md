@@ -62,6 +62,69 @@ Note: Premium features are charged.
 
 **Platform**: Windows .
 
+### Folder Explorer
+
+official website: <https://d2.pub/zh/doc/folder-explorer/>  .
+
+GitHub: <https://github.com/d2-projects/folder-explorer> 
+
+Scanning directories, analyzing file structure and statistics, adding notes to arbitrary files, exporting annotated tree text and other data formats, greatly facilitating the writing of technical documents.
+
+![img](https://cdn.d2.pub/files/image-hosting/20190926165542.png)
+
+function: 
+
+- Scans the specified directory (drag-and-drop enabled) and scans the specified directory in the current result again
+- Displays tree statistics of file structure, supports adding comments, and hides individual file or folder contents
+- File type statistics
+- File volume distribution statistics
+- Export text tree structure diagram, support comments and automatic alignment, support custom content format
+- Export JSON files and XML files for use by other software or programs
+- Export the Xmind structure diagram to support content formatting for custom nodes, labels, and comments
+- Custom export file name default
+- Annotation information memory function
+- Backup and import of personalized Settings
+- Other rich Settings options
+
+**Platform**: Windows/Mac/Linux.
+
+### PicGo
+
+official website：<https://molunerfinn.com/PicGo/> .
+
+GitHub：<https://github.com/Molunerfinn/PicGo> .
+
+A tool for quickly uploading images and getting URL links to images.
+
+![1600494406596](H:/Git/git-clone/awesome-software/assets/1600494406596.png)
+
+#### PicGo ontology supports the following picture bed
+
+- `Seven ox chart bed` V1.0
+- `Tencent Cloud COS v4\V5 version` V1.1 & V1.5.0
+- `again clap cloud` V1.2.0
+- `making` v1.5.0
+- `SM. MS V2` v2.3.0 - beta. 0
+- `Aliyun OSS` V1.6.0
+- `Imgur` v1.6.0
+
+#### Feature features
+
+- Support drag and drop image upload
+- Supports shortcuts to upload the first image in the clipboard
+- Windows and macOS support right-clicking image files uploaded via menu (V2.1.0 +)
+- Automatically copy and link to clipboard after uploading image
+- Supports custom copy to clipboard link formats
+- support to modify shortcuts, default quick upload shortcut: 'command+shift+p' (macOS) | 'control+shift+p' (Windows\Linux)
+- Support plug-in system, existing plug-ins support Gitee, Qingyun and other third party graphics bed
+- more third-party plug-ins and using the PicGo at the bottom of the application can be found in [Awesome - PicGo] (https://github.com/PicGo/Awesome-PicGo). Contributions are welcome!
+- Supports PicGo uploads by sending HTTP requests (V2.2.0 +)
+- More and more for you to discover on your own, as well as constantly developing new features
+- developing schedule can view [Projects] (https://github.com/Molunerfinn/PicGo/projects), synchronous update development progress
+  Welcome to the official Gitter channel [https://gitter.im/picgo-all/PicGo? Utm_source = share-link&UTM _medium= link&UTM _campaign=share-link) communicate with me
+
+**Platform**: Windows/Mac/Linux .
+
 ## Pay
 
 ### Beyond Compare
