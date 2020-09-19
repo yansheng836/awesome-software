@@ -38,6 +38,30 @@ Typora gives you a seamless experience as both a reader and a writer. It removes
 
 **Platform**: Windows/Mac/Linux .
 
+### FastStone Capture
+
+official website: <https://faststone-capture.en.softonic.com/>  .
+
+FastStone Free Capture (FSCapture) is a free image viewer, editor and screen capture that supports all major graphic formats including BMP, JPEG, JPEG 2000, GIF, PNG, PCX, TIFF, WMF, ICO and TGA. With its amazingly smooth and crystal-clear magnifier, every detail of images can be viewed gracefully in full screen without compromising the quality.
+
+Its Resizing, Rotating, Cropping, Color adjusting tools with Undo support enable image enhancement easier than ever. Its screen capturing allows you to capture anything on the screen within just a couple of mouse clicks. Its drag & drop enables you to drag images from windows, Internet browsers and other programs directly to this program.
+
+simple use: <https://blog.csdn.net/weixin_41287260/article/details/94592405>  .
+
+**Platform**: Windows .
+
+### 天若OCR
+
+official website: <https://tianruoocr.cn/>  .
+
+![1600491761160](./assets/1600491761160.png)
+
+An OCR text recognition software, OCR recognition of small tools set baidu, Tencent, youdao, sogou four text recognition interface, called the OCR interface of the major websites, free unlimited number of times (youdao free interface has IP restrictions only for entertainment), simple and practical functions, let you identify the content you want to identify at will.
+
+Note: Premium features are charged.
+
+**Platform**: Windows .
+
 ## Pay
 
 ### Beyond Compare
