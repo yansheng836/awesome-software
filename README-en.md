@@ -4,7 +4,7 @@
 
 # Awesome Software
 
-![Awesome](https://github.com/yansheng836/awesome-software/blob/master/media/awesome.svg) [![chinese](https://github.com/yansheng836/awesome-software/blob/master/media/chinese.svg)](https://github.com/yansheng836/awesome-software/blob/master/README.md) [![english](https://github.com/yansheng836/awesome-software/blob/master/media/english.svg)](https://github.com/yansheng836/awesome-software/blob/master/README-en.md) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d61b6b748e4c4f5ba29e29da826ce4f4)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yansheng836/awesome-software&amp;utm_campaign=Badge_Grade)
+![Awesome](./media/awesome.svg) [![chinese](./media/chinese.svg)](https://github.com/yansheng836/awesome-software/blob/master/README.md) [![english](./media/english.svg)](https://github.com/yansheng836/awesome-software/blob/master/README-en.md) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d61b6b748e4c4f5ba29e29da826ce4f4)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yansheng836/awesome-software&amp;utm_campaign=Badge_Grade)
 
 Keep track of any software that works better.
 
