@@ -70,7 +70,7 @@ GitHub： <https://github.com/d2-projects/folder-explorer> 。
 
 扫描目录，分析文件结构和统计信息，给任意文件添加备注，导出带注释的树形文本和其它多种数据格式，大大方便书写技术文档。
 
-![img](https://cdn.d2.pub/files/image-hosting/20190926165542.png)
+![img](./assets/20190926165542.png)
 
 #### 功能
 

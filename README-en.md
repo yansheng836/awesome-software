@@ -70,7 +70,7 @@ GitHub: <https://github.com/d2-projects/folder-explorer>
 
 Scanning directories, analyzing file structure and statistics, adding notes to arbitrary files, exporting annotated tree text and other data formats, greatly facilitating the writing of technical documents.
 
-![img](https://cdn.d2.pub/files/image-hosting/20190926165542.png)
+![img](./assets/20190926165542.png)
 
 function: 
 
