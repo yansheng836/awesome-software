@@ -117,11 +117,11 @@ A tool for quickly uploading images and getting URL links to images.
 - Supports custom copy to clipboard link formats
 - support to modify shortcuts, default quick upload shortcut: 'command+shift+p' (macOS) | 'control+shift+p' (Windows\Linux)
 - Support plug-in system, existing plug-ins support Gitee, Qingyun and other third party graphics bed
-- more third-party plug-ins and using the PicGo at the bottom of the application can be found in [Awesome - PicGo] (https://github.com/PicGo/Awesome-PicGo). Contributions are welcome!
+- more third-party plug-ins and using the PicGo at the bottom of the application can be found in [Awesome - PicGo](https://github.com/PicGo/Awesome-PicGo). Contributions are welcome!
 - Supports PicGo uploads by sending HTTP requests (V2.2.0 +)
 - More and more for you to discover on your own, as well as constantly developing new features
-- developing schedule can view [Projects] (https://github.com/Molunerfinn/PicGo/projects), synchronous update development progress
-  Welcome to the official Gitter channel [https://gitter.im/picgo-all/PicGo? Utm_source = share-link&UTM _medium= link&UTM _campaign=share-link) communicate with me
+- developing schedule can view [Projects](https://github.com/Molunerfinn/PicGo/projects), synchronous update development progress
+  Welcome to the [official Gitter channel](<https://gitter.im/picgo-all/PicGo?Utmsource=share-link&UTM_medium=link&UTM_campaign=share-link>) communicate with me
 
 **Platform**: Windows/Mac/Linux .
 
@@ -129,7 +129,7 @@ A tool for quickly uploading images and getting URL links to images.
 
 ### Beyond Compare
 
- official website:<https://www.scootersoftware.com/index.php> .
+official website:<https://www.scootersoftware.com/index.php> .
 
 Beyond Compare is a multi-platform utility that combines directory compare and file compare functions in one package.  Use it to manage source code, keep directories in sync, compare program output, etc.
 
