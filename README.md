@@ -36,6 +36,11 @@ Typora是一款跨平台的最小Markdown编辑器，可为Markdown读者和作�
 
 Typora给您既是读者又是作家的无缝体验。它删除了预览窗口，模式切换器，降价源代码的语法符号以及所有其他不必要的干扰。相反，它提供了真正的实时预览功能，可帮助您专注于内容本身。
 
+该软件支持两个实用的功能（需要安装下面个两个软件（插件））：
+
+- pandoc：将其他格式导入（成Markdown文件），导出成其他格式文件（PDF/word/html……）。
+- PicGo：图片上传（阿里云、github、gitee等各种常见的云空间）。
+
 **系统兼容**：Windows/Mac/Linux 。
 
 ### FastStone Capture
@@ -88,6 +93,14 @@ GitHub： <https://github.com/d2-projects/folder-explorer> 。
 
 **系统兼容**：Windows/Mac/Linux。
 
+### Pandoc
+
+官网：<https://www.pandoc.org/>
+
+一个通用的文件转换器。
+
+![image-20210711202028075](assets/image-20210711202028075.png)
+
 ### PicGo
 
 官网：<https://molunerfinn.com/PicGo/> 。
@@ -125,6 +138,70 @@ GitHub：<https://github.com/Molunerfinn/PicGo> 。
 
 **系统兼容**：Windows/Mac/Linux 。
 
+### ExifTool
+
+官网：<https://exiftool.org/>
+
+一个独立于平台的 Perl 库和一个命令行应用程序，用于读取、写入和编辑各种文件中的元信息。 
+
+ExifTool 支持多种不同的元数据格式，包括jpeg/jpg/png/gif等。
+
+### Git
+
+官网：https://git-scm.com/
+
+Git 是一个免费的开源分布式版本控制系统，旨在快速高效地处理从小到大的所有项目。
+
+是大牛Linus Torvalds开发的，旨在管理Linux代码库。
+
+程序猿必备。
+
+在Windows系统中运行Linux命令，这亦是一个不错的工具。
+
+远程仓库：[GitHub](https://github.com/) （GitHubDesktop）、[gitee](https://gitee.com/)、[bitbucket](https://bitbucket.org/product/) （SourceTree）、[gitlab](https://about.gitlab.com/) 。
+
+![image-20210711195749232](assets/image-20210711195749232.png)
+
+**系统兼容**：Windows/Mac/Linux 。
+
+#### 相关工具
+
+##### git diff工具
+
+文本类：Beyond Compare、DiffMerge。
+
+图片类：ExifTool 
+
+docx：pandoc
+
+##### 目录生成工具
+
+github-markdown-toc：<https://github.com/ekalinin/github-markdown-toc> 
+
+##### 移除历史中已经删除的大文件
+
+https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
+
+工具bfg：https://rtyley.github.io/bfg-repo-cleaner/
+
+### IntelliJ开发套件
+
+官网：<https://www.jetbrains.com/>
+
+软件开发人员和团队的基本工具。
+
+![image-20210711202959353](assets/image-20210711202959353.png)
+
+有多种开发工具，适用于多种常用的编程语言，而且各种插件很成熟。
+
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)：Java
+
+- [PyCharm](https://www.jetbrains.com/pycharm/)：Python
+
+- [WebStorm](https://www.jetbrains.com/webstorm/)：JavaScript 
+
+- [PhpStorm](https://www.jetbrains.com/phpstorm/)：Php
+
 ## 付费
 
 ### Beyond Compare
@@ -133,4 +210,9 @@ GitHub：<https://github.com/Molunerfinn/PicGo> 。
 
 Beyond Compare是一个多平台实用程序，它将目录比较和文件比较功能组合在一个包中。使用它来管理源代码，保持目录同步，比较程序输出，等等。
 
+试用一段时间后需要付费。
+
 **系统兼容**：Windows/Mac/Linux 。
+
+![image-20210711195342284](assets/image-20210711195342284.png)
+
