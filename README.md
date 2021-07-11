@@ -202,6 +202,38 @@ https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-
 
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)：Php
 
+### Notepad++
+
+官网：<https://notepad-plus-plus.org/>
+
+Notepad++ 是一个免费的源代码编辑器和支持多种语言的记事本替代品。
+
+关键词：轻量级、插件
+
+**系统兼容**：Windows/Mac/Linux 。
+
+![image-20210711203844696](assets/image-20210711203844696.png)
+
+### TrafficMonitor
+
+官网：<https://github.com/zhongyang219/TrafficMonitor> 。
+
+Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
+
+**系统兼容**：Windows。
+
+### WizTree
+
+官网：<https://www.diskanalyzer.com/> 。
+
+最快的磁盘空间分析器。查找占用硬盘空间最多的文件和文件夹。
+
+关键词：个人免费。
+
+**系统兼容**：Windows。
+
+![image-20210711205513432](assets/image-20210711205513432.png)
+
 ## 付费
 
 ### Beyond Compare
@@ -216,3 +248,32 @@ Beyond Compare是一个多平台实用程序，它将目录比较和文件比较
 
 ![image-20210711195342284](assets/image-20210711195342284.png)
 
+### Navicat
+
+官网：http://www.navicat.com.cn/
+
+Navicat Premium 15 是一套多连接数据库开发工具，让你在单一应用程序中同时连接多达七种数据库：MySQL、MariaDB、MongoDB、SQL Server、SQLite、Oracle 和 PostgreSQL，可一次快速方便地访问所有数据库。
+
+**系统兼容**：Windows/Mac/Linux 。
+
+![image-20210711204530137](assets/image-20210711204530137.png)
+
+### HTTP Debugger
+
+官网：http://www.httpdebugger.com/
+
+调试对后端和后端之间的 HTTP API 调用。
+
+**HTTP Debugger抓包调试工具**是来自国外的一款操作简单，功能强大的网络抓包神器，软件也是专为网站开发者设计的网站调试工具，可以对客户端浏览器和网站服务器之间的通信进行捕获、分析和调试。
+
+#### What Makes HTTP Debugger So Different?
+
+- ![img](http://www.httpdebugger.com/images/check.png) Clean UI and very easy to use.
+- ![img](http://www.httpdebugger.com/images/check.png) Displays HTTP/s traffic from any browser and .NET, JAVA, and C ++ applications.
+- ![img](http://www.httpdebugger.com/images/check.png) Displays in/out traffic for locally running web servers (Node.js, Apache, IIS Express).
+- ![img](http://www.httpdebugger.com/images/check.png) You can edit and resubmit HTTP sessions and modify HTTP traffic on-the-fly.
+- ![img](http://www.httpdebugger.com/images/check.png) It's not a proxy and does not cause network problems!
+
+**系统兼容**：Windows 。
+
+![image-20210711204751009](assets/image-20210711204751009.png)
