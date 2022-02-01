@@ -14,9 +14,11 @@
 
 如侵权内容，请 [联系我](<mailto:sheng.yan836@gmail.com>) 进行删除。
 
-## 免费
+## 搜索软件
 
-### Everything
+### Everything--win全局搜索
+
+![image-20220201152624699](assets/image-20220201152624699.png)
 
 官网：<https://www.voidtools.com/zh-cn/> 。
 
@@ -28,7 +30,30 @@
 
 **系统兼容**：Windows 。
 
-### Typora
+**是否付费**：免费。
+
+**下载**：<https://www.voidtools.com/zh-cn/downloads/> 。
+
+### Listary--win全局搜索
+
+![image-20220201152323044](assets/image-20220201152323044.png)
+
+官网：<https://www.listary.com/> 。
+
+Listary是一款革命性的Windows搜索工具。
+这使得查找文件和启动应用程序的速度非常快，对于普通用户和高级用户都是如此！
+
+**系统兼容**：Windows 。
+
+**是否付费**：普通版免费；专业版需要付费。
+
+**下载**：<https://www.listary.com/download> 。
+
+## 文本编辑器
+
+### Typora--Markdown编辑器
+
+![image-20220201155141447](assets/image-20220201155141447.png)
 
 官网：<https://www.typora.io/> 。
 
@@ -38,24 +63,58 @@ Typora给您既是读者又是作家的无缝体验。它删除了预览窗口�
 
 该软件支持两个实用的功能（需要安装下面个两个软件（插件））：
 
-- pandoc：将其他格式导入（成Markdown文件），导出成其他格式文件（PDF/word/html……）。
-- PicGo：图片上传（阿里云、github、gitee等各种常见的云空间）。
+- [pandoc](#Pandoc)：将其他格式导入（成Markdown文件），导出成其他格式文件（PDF/word/html……）。
+- [PicGo](#PicGo)：图片上传（阿里云、github、gitee等各种常见的云空间）。
 
 **系统兼容**：Windows/Mac/Linux 。
 
-### FastStone Capture
+**是否付费**：一开始免费；后面好像从哪个版本开始收费了（但是之前的版本还是可用的）。15天试用+会员。
 
-官网：<https://faststone-capture.en.softonic.com/> 。
+**下载**：<https://www.typora.io/#download> 。
+
+### Notepad++--纯文本编辑器
+
+![image-20210711203844696](assets/image-20210711203844696.png)
+
+官网：<https://notepad-plus-plus.org/> 。
+
+GitHub：<https://github.com/notepad-plus-plus/notepad-plus-plus> 。
+
+Notepad++ 是一个免费的源代码编辑器和支持多种语言的记事本替代品。支持各种扩展性插件。
+
+关键词：轻量级、插件
+
+**系统兼容**：Windows/Mac/Linux 。
+
+**是否付费**：开源，免费。
+
+**下载**：<https://notepad-plus-plus.org/downloads/> 。
+
+## 图片工具
+
+### FastStone Capture--截图工具
+
+![image-20220201155525281](assets/image-20220201155525281.png)
+
+官网：<https://www.faststone.org/FSCaptureDetail.htm> 。
+
+![image-20220201155402989](assets/image-20220201155402989.png)
+
+非官网：<https://faststone-capture.en.softonic.com/> 。
 
 FastStone Capture（FSCapture）是一种图像查看器，编辑器和屏幕截图，支持所有主要图形格式，包括BMP，JPEG，JPEG 2000，GIF，PNG，PCX，TIFF，WMF，ICO和TGA。凭借其惊人的平滑和清晰的放大镜，可以在全屏幕上优雅地观看图像的每个细节，而不会影响质量。
 
 它的“缩放”，“旋转”，“裁切”，“色彩”调整工具以及“撤消”支持使图像增强比以往更加容易。它的屏幕捕获功能使您只需单击几下鼠标即可捕获屏幕上的所有内容。其拖放功能使您可以将图像从Windows，Internet浏览器和其他程序直接拖动到该程序。
 
-简介和使用：<https://blog.csdn.net/weixin_41287260/article/details/94592405> 。
+简介和使用可参考：<https://blog.csdn.net/weixin_41287260/article/details/94592405> 。
 
 **系统兼容**：Windows 。
 
-### 天若OCR文字识别
+**是否付费**：30天试用+会员。
+
+**下载**：<https://www.faststone.org/FSCaptureDownload.htm> , <https://faststone-capture.en.softonic.com/download> 。
+
+### 天若OCR文字识别--OCR
 
 官网：<https://tianruoocr.cn/> 。
 
@@ -63,11 +122,31 @@ FastStone Capture（FSCapture）是一种图像查看器，编辑器和屏幕截
 
 一款OCR文字识别软件，OCR识别的小工具集合百度、腾讯、有道、搜狗四条文字识别接口，调用了各大网站的ocr接口，免费不限次数（有道免费接口有ip限制仅供娱乐），功能简单实用，让你随意识别想要识别的内容。
 
-注：高级功能需要付费。
-
 **系统兼容**：Windows 。
 
-### Folder Explorer
+**是否付费**：有免费版；高级功能需要付费。
+
+**下载**：<https://tianruo.lanzoux.com/b0mn2zif> 。
+
+## 文件管理工具
+
+### WizTree--磁盘空间分析器
+
+![image-20210711205513432](assets/image-20210711205513432.png)
+
+官网：<https://www.diskanalyzer.com/> 。
+
+最快的磁盘空间分析器。查找占用硬盘空间最多的文件和文件夹。
+
+关键词：个人免费。
+
+**系统兼容**：Windows。
+
+**是否付费**：。
+
+**下载**：<> 。
+
+### Folder Explorer--文件树浏览
 
 官网：<https://d2.pub/zh/doc/folder-explorer/> 。
 
@@ -93,15 +172,29 @@ GitHub： <https://github.com/d2-projects/folder-explorer> 。
 
 **系统兼容**：Windows/Mac/Linux。
 
-### Pandoc
+**是否付费**：开源，免费。
 
-官网：<https://www.pandoc.org/>
+**下载**：<https://github.com/d2-projects/folder-explorer/releases> 。
 
-一个通用的文件转换器。
+### Pandoc--文件转换
+
+官网：<https://www.pandoc.org/> 。
+
+GitHub：<https://github.com/jgm/pandoc> 。
+
+Pandoc是一个用于从一种标记格式转换到另一种标记格式的Haskell库，也是一个使用该库的命令行工具。
+
+一个通用的文件转换器，支持很多种格式，可参考下图，或者是[官网](https://www.pandoc.org/)介绍。
 
 ![image-20210711202028075](assets/image-20210711202028075.png)
 
-### PicGo
+**系统兼容**：Windows/Mac/Linux。
+
+**是否付费**：开源，免费。
+
+**下载**：<https://github.com/jgm/pandoc/releases> 。
+
+### PicGo--图片上传(图床)
 
 官网：<https://molunerfinn.com/PicGo/> 。
 
@@ -138,7 +231,13 @@ GitHub：<https://github.com/Molunerfinn/PicGo> 。
 
 **系统兼容**：Windows/Mac/Linux 。
 
-### ExifTool
+**是否付费**：开源，免费。
+
+**下载**：<https://github.com/Molunerfinn/PicGo/releases> 。
+
+### ExifTool--图片元信息
+
+![image-20220201191104681](assets/image-20220201191104681.png)
 
 官网：<https://exiftool.org/>
 
@@ -146,9 +245,37 @@ GitHub：<https://github.com/Molunerfinn/PicGo> 。
 
 ExifTool 支持多种不同的元数据格式，包括jpeg/jpg/png/gif等。
 
-### Git
+ExifTool是一个独立于平台的Perl库，加上一个命令行应用程序，用于读取、写入和编辑各种文件中的元信息。ExifTool支持许多不同的元数据格式包括EXIF, GPS, IPTC, XMP,就是以前,GeoTIFF, ICC档案,Photoshop IRB, FlashPix,大使基金和ID3 Lyrics3,以及制造商的许多由佳能数码相机,卡西欧,收,FLIR,富士胶片,通用电气还装有,惠普,JVC /维克多,柯达、叶、美能达/柯尼卡美能达、摩托罗拉、尼康、任天堂、奥林巴斯/爱普生、松下/徕卡、宾得/朝日、Phase One、Reconyx、理光、三星、三洋、Sigma/Foveon、索尼。
 
-官网：https://git-scm.com/
+（ExifTool supports many different metadata formats including [EXIF](https://exiftool.org/TagNames/EXIF.html), [GPS](https://exiftool.org/TagNames/GPS.html), [IPTC](https://exiftool.org/TagNames/IPTC.html), [XMP](https://exiftool.org/TagNames/XMP.html), [JFIF](https://exiftool.org/TagNames/JFIF.html), [GeoTIFF](https://exiftool.org/TagNames/GeoTiff.html), [ICC Profile](https://exiftool.org/TagNames/ICC_Profile.html), [Photoshop IRB](https://exiftool.org/TagNames/Photoshop.html), [FlashPix](https://exiftool.org/TagNames/FlashPix.html), [AFCP](https://exiftool.org/TagNames/AFCP.html) and [ID3](https://exiftool.org/TagNames/ID3.html), [Lyrics3](https://exiftool.org/TagNames/ID3.html#Lyrics3), as well as the maker notes of many digital cameras by [Canon](https://exiftool.org/TagNames/Canon.html), [Casio](https://exiftool.org/TagNames/Casio.html), [DJI](https://exiftool.org/TagNames/DJI.html), [FLIR](https://exiftool.org/TagNames/FLIR.html), [FujiFilm](https://exiftool.org/TagNames/FujiFilm.html), [GE](https://exiftool.org/TagNames/GE.html), [GoPro](https://exiftool.org/TagNames/GoPro.html), [HP](https://exiftool.org/TagNames/HP.html), [JVC/Victor](https://exiftool.org/TagNames/JVC.html), [Kodak](https://exiftool.org/TagNames/Kodak.html), [Leaf](https://exiftool.org/TagNames/Leaf.html), [Minolta/Konica-Minolta](https://exiftool.org/TagNames/Minolta.html), [Motorola](https://exiftool.org/TagNames/Motorola.html), [Nikon](https://exiftool.org/TagNames/Nikon.html), [Nintendo](https://exiftool.org/TagNames/Nintendo.html), [Olympus/Epson](https://exiftool.org/TagNames/Olympus.html), [Panasonic/Leica](https://exiftool.org/TagNames/Panasonic.html), [Pentax/Asahi](https://exiftool.org/TagNames/Pentax.html), [Phase One](https://exiftool.org/TagNames/PhaseOne.html), [Reconyx](https://exiftool.org/TagNames/Reconyx.html), [Ricoh](https://exiftool.org/TagNames/Ricoh.html), [Samsung](https://exiftool.org/TagNames/Samsung.html), [Sanyo](https://exiftool.org/TagNames/Sanyo.html), [Sigma/Foveon](https://exiftool.org/TagNames/Sigma.html) and [Sony](https://exiftool.org/TagNames/Sony.html).）
+
+**系统兼容**：Windows/Mac/Linux 。
+
+**是否付费**：开源，免费。
+
+**下载**：<https://exiftool.org/> 。
+
+### TrafficMonitor--win桌面悬浮窗软件
+
+![image-20220201192234574](assets/image-20220201192234574.png)
+
+官网/GitHub：<https://github.com/zhongyang219/TrafficMonitor> 。
+
+Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
+
+**系统兼容**：Windows。
+
+**是否付费**：开源，免费。
+
+**下载**：<https://github.com/zhongyang219/TrafficMonitor/releases> 。
+
+## 开发工具
+
+### Git--版本控制系统
+
+官网：https://git-scm.com/ 。
+
+GitHub：<https://github.com/git/git> 。
 
 Git 是一个免费的开源分布式版本控制系统，旨在快速高效地处理从小到大的所有项目。
 
@@ -158,7 +285,7 @@ Git 是一个免费的开源分布式版本控制系统，旨在快速高效地�
 
 在Windows系统中运行Linux命令，这亦是一个不错的工具。
 
-远程仓库：[GitHub](https://github.com/) （GitHubDesktop）、[gitee](https://gitee.com/)、[bitbucket](https://bitbucket.org/product/) （SourceTree）、[gitlab](https://about.gitlab.com/) 。
+远程仓库：[GitHub](https://github.com/) （GitHubDesktop）、[Gitee](https://gitee.com/)、[Bitbucket](https://bitbucket.org/product/) （SourceTree）、[Gitlab](https://about.gitlab.com/) 。
 
 ![image-20210711195749232](assets/image-20210711195749232.png)
 
@@ -184,7 +311,7 @@ https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-
 
 工具bfg：https://rtyley.github.io/bfg-repo-cleaner/
 
-### IntelliJ开发套件
+### IntelliJ--开发套件
 
 官网：<https://www.jetbrains.com/>
 
@@ -202,71 +329,18 @@ https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-
 
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)：Php
 
-### Notepad++
-
-官网：<https://notepad-plus-plus.org/>
-
-Notepad++ 是一个免费的源代码编辑器和支持多种语言的记事本替代品。
-
-关键词：轻量级、插件
-
-**系统兼容**：Windows/Mac/Linux 。
-
-![image-20210711203844696](assets/image-20210711203844696.png)
-
-### TrafficMonitor
-
-官网：<https://github.com/zhongyang219/TrafficMonitor> 。
-
-Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
-
-**系统兼容**：Windows。
-
-### WizTree
-
-官网：<https://www.diskanalyzer.com/> 。
-
-最快的磁盘空间分析器。查找占用硬盘空间最多的文件和文件夹。
-
-关键词：个人免费。
-
-**系统兼容**：Windows。
-
-![image-20210711205513432](assets/image-20210711205513432.png)
-
-## 付费
-
-### Beyond Compare
-
-官网：<https://www.scootersoftware.com/index.php> 。
-
-Beyond Compare是一个多平台实用程序，它将目录比较和文件比较功能组合在一个包中。使用它来管理源代码，保持目录同步，比较程序输出，等等。
-
-试用一段时间后需要付费。
-
-**系统兼容**：Windows/Mac/Linux 。
-
-![image-20210711195342284](assets/image-20210711195342284.png)
-
-### Navicat
-
-官网：http://www.navicat.com.cn/
-
-Navicat Premium 15 是一套多连接数据库开发工具，让你在单一应用程序中同时连接多达七种数据库：MySQL、MariaDB、MongoDB、SQL Server、SQLite、Oracle 和 PostgreSQL，可一次快速方便地访问所有数据库。
-
-**系统兼容**：Windows/Mac/Linux 。
-
-![image-20210711204530137](assets/image-20210711204530137.png)
 
 ### HTTP Debugger
 
-官网：http://www.httpdebugger.com/
+![image-20210711204751009](assets/image-20210711204751009.png)
+
+官网：<http://www.httpdebugger.com/>
 
 调试对后端和后端之间的 HTTP API 调用。
 
 **HTTP Debugger抓包调试工具**是来自国外的一款操作简单，功能强大的网络抓包神器，软件也是专为网站开发者设计的网站调试工具，可以对客户端浏览器和网站服务器之间的通信进行捕获、分析和调试。
 
-#### What Makes HTTP Debugger So Different?
+**What Makes HTTP Debugger So Different?**
 
 - ![img](http://www.httpdebugger.com/images/check.png) Clean UI and very easy to use.
 - ![img](http://www.httpdebugger.com/images/check.png) Displays HTTP/s traffic from any browser and .NET, JAVA, and C ++ applications.
@@ -276,4 +350,62 @@ Navicat Premium 15 是一套多连接数据库开发工具，让你在单一应�
 
 **系统兼容**：Windows 。
 
-![image-20210711204751009](assets/image-20210711204751009.png)
+**是否付费**：。
+
+**下载**： <> 。
+
+## 文件对比工具
+
+### Beyond Compare
+
+![image-20220201154459236](assets/image-20220201154459236.png)
+
+![image-20210711195342284](assets/image-20210711195342284.png)
+
+官网：<https://www.scootersoftware.com/index.php> 。
+
+Beyond Compare是一个多平台实用程序，它将目录比较和文件比较功能组合在一个包中。使用它来管理源代码，保持目录同步，比较程序输出，等等。
+
+
+试用一段时间后需要付费。
+
+**系统兼容**：Windows/Mac/Linux。
+
+**是否付费**：下载是免费的30天试用版，当购买了许可证后可以永久使用。
+
+**下载**： <https://www.scootersoftware.com/download.php> 。
+
+
+### WinMerge
+
+![image-20220201160137253](assets/image-20220201160137253.png)
+
+官网：<https://winmerge.org/> 。
+
+GitHub：<https://github.com/winmerge/winmerge> 。
+
+WinMerge是一个开源的Windows差异和合并工具。WinMerge可以比较文件夹和文件，以易于理解和处理的可视文本格式呈现差异。
+
+**系统兼容**：Windows 。
+
+**是否付费**：免费。
+
+**下载**： <https://github.com/WinMerge/winmerge/releases/download/v2.16.18/WinMerge-2.16.18-Setup.exe> 。
+
+
+## 数据库工具
+
+### Navicat
+
+![image-20210711204530137](assets/image-20210711204530137.png)
+
+官网：<http://www.navicat.com.cn/>
+
+Navicat Premium 15 是一套多连接数据库开发工具，让你在单一应用程序中同时连接多达七种数据库：MySQL、MariaDB、MongoDB、SQL Server、SQLite、Oracle 和 PostgreSQL，可一次快速方便地访问所有数据库。
+
+**系统兼容**：Windows/Mac/Linux 。
+
+**是否付费**：14天体验+会员。
+
+**下载**： <http://www.navicat.com.cn/download/navicat-premium> 。
+
