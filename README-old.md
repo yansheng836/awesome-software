@@ -14,11 +14,9 @@
 
 如侵权内容，请 [联系我](<mailto:sheng.yan836@gmail.com>) 进行删除。
 
-## 搜索软件
+## 免费
 
 ### Everything
-
-![image-20220201152624699](assets/image-20220201152624699.png)
 
 官网：<https://www.voidtools.com/zh-cn/> 。
 
@@ -30,30 +28,7 @@
 
 **系统兼容**：Windows 。
 
-**是否付费**：免费。
-
-**下载**：<https://www.voidtools.com/zh-cn/downloads/> 。
-
-### Listary
-
-![image-20220201152323044](assets/image-20220201152323044.png)
-
-官网：<https://www.listary.com/> 。
-
-Listary是一款革命性的Windows搜索工具。
-这使得查找文件和启动应用程序的速度非常快，对于普通用户和高级用户都是如此！
-
-**系统兼容**：Windows 。
-
-**是否付费**：普通版免费；专业版需要付费。
-
-**下载**：<https://www.listary.com/download> 。
-
-## Markdown编辑器
-
 ### Typora
-
-![image-20220201155141447](assets/image-20220201155141447.png)
 
 官网：<https://www.typora.io/> 。
 
@@ -63,33 +38,17 @@ Typora给您既是读者又是作家的无缝体验。它删除了预览窗口�
 
 **系统兼容**：Windows/Mac/Linux 。
 
-**是否付费**：一开始免费；后面好像从哪个版本开始收费了（但是之前的版本还是可用的）。15天试用+会员。
-
-**下载**：<https://www.typora.io/#download> 。
-
-## 图片工具
-
 ### FastStone Capture
 
-![image-20220201155525281](assets/image-20220201155525281.png)
-
-官网：<https://www.faststone.org/FSCaptureDetail.htm> 。
-
-![image-20220201155402989](assets/image-20220201155402989.png)
-
-非官网：<https://faststone-capture.en.softonic.com/> 。
+官网：<https://faststone-capture.en.softonic.com/> 。
 
 FastStone Capture（FSCapture）是一种图像查看器，编辑器和屏幕截图，支持所有主要图形格式，包括BMP，JPEG，JPEG 2000，GIF，PNG，PCX，TIFF，WMF，ICO和TGA。凭借其惊人的平滑和清晰的放大镜，可以在全屏幕上优雅地观看图像的每个细节，而不会影响质量。
 
 它的“缩放”，“旋转”，“裁切”，“色彩”调整工具以及“撤消”支持使图像增强比以往更加容易。它的屏幕捕获功能使您只需单击几下鼠标即可捕获屏幕上的所有内容。其拖放功能使您可以将图像从Windows，Internet浏览器和其他程序直接拖动到该程序。
 
-简介和使用可参考：<https://blog.csdn.net/weixin_41287260/article/details/94592405> 。
+简介和使用：<https://blog.csdn.net/weixin_41287260/article/details/94592405> 。
 
 **系统兼容**：Windows 。
-
-**是否付费**：30天试用+会员。
-
-**下载**：<https://www.faststone.org/FSCaptureDownload.htm> , <https://faststone-capture.en.softonic.com/download> 。
 
 ### 天若OCR文字识别
 
@@ -102,8 +61,6 @@ FastStone Capture（FSCapture）是一种图像查看器，编辑器和屏幕截
 注：高级功能需要付费。
 
 **系统兼容**：Windows 。
-
-## 文件管理工具
 
 ### Folder Explorer
 
@@ -168,34 +125,12 @@ GitHub：<https://github.com/Molunerfinn/PicGo> 。
 
 **系统兼容**：Windows/Mac/Linux 。
 
-## 文件对比工具
+## 付费
 
 ### Beyond Compare
-
-![image-20220201154459236](assets/image-20220201154459236.png)
 
 官网：<https://www.scootersoftware.com/index.php> 。
 
 Beyond Compare是一个多平台实用程序，它将目录比较和文件比较功能组合在一个包中。使用它来管理源代码，保持目录同步，比较程序输出，等等。
 
 **系统兼容**：Windows/Mac/Linux 。
-
-**是否付费**：下载是免费的30天试用版，当购买了许可证后可以永久使用。
-
-**下载**： <https://www.scootersoftware.com/download.php> 。
-
-### WinMerge
-
-![image-20220201160137253](assets/image-20220201160137253.png)
-
-官网：<https://winmerge.org/> 。
-
-GitHub：<https://github.com/winmerge/winmerge> 。
-
-WinMerge是一个开源的Windows差异和合并工具。WinMerge可以比较文件夹和文件，以易于理解和处理的可视文本格式呈现差异。
-
-**系统兼容**：Windows 。
-
-**是否付费**：免费。
-
-**下载**： <https://github.com/WinMerge/winmerge/releases/download/v2.16.18/WinMerge-2.16.18-Setup.exe> 。
