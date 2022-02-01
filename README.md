@@ -4,7 +4,7 @@
 
 # Awesome Software
 
-![Awesome](./media/awesome.svg) [![chinese](./media/chinese.svg)](https://github.com/yansheng836/awesome-software/blob/master/README.md) [![english](./media/english.svg)](https://github.com/yansheng836/awesome-software/blob/master/README-en.md) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d61b6b748e4c4f5ba29e29da826ce4f4)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yansheng836/awesome-software&amp;utm_campaign=Badge_Grade)
+![Awesome](./media/awesome.svg) [![chinese](./media/chinese.svg)](https://github.com/yansheng836/awesome-software/blob/master/README.md) [![english](./media/english.svg)](https://github.com/yansheng836/awesome-software/blob/master/README-en.md) 
 
 优秀的软件。记录使用过的比较好用的软件，有免费的，也有付费的。
 
@@ -66,7 +66,7 @@ Typora给您既是读者又是作家的无缝体验。它删除了预览窗口�
 - [pandoc](#Pandoc)：将其他格式导入（成Markdown文件），导出成其他格式文件（PDF/word/html……）。
 - [PicGo](#PicGo)：图片上传（阿里云、github、gitee等各种常见的云空间）。
 
-**系统兼容**：Windows/Mac/Linux 。
+**系统兼容**：Windows/macOS/Linux 。
 
 **是否付费**：一开始免费；后面好像从哪个版本开始收费了（但是之前的版本还是可用的）。15天试用+会员。
 
@@ -84,7 +84,7 @@ Notepad++ 是一个免费的源代码编辑器和支持多种语言的记事本�
 
 关键词：轻量级、插件
 
-**系统兼容**：Windows/Mac/Linux 。
+**系统兼容**：Windows/macOS/Linux 。
 
 **是否付费**：开源，免费。
 
@@ -170,7 +170,7 @@ GitHub： <https://github.com/d2-projects/folder-explorer> 。
 - 个性化设置的备份和导入
 - 其它丰富的设置选项
 
-**系统兼容**：Windows/Mac/Linux。
+**系统兼容**：Windows/macOS/Linux。
 
 **是否付费**：开源，免费。
 
@@ -188,7 +188,7 @@ Pandoc是一个用于从一种标记格式转换到另一种标记格式的Haske
 
 ![image-20210711202028075](assets/image-20210711202028075.png)
 
-**系统兼容**：Windows/Mac/Linux。
+**系统兼容**：Windows/macOS/Linux。
 
 **是否付费**：开源，免费。
 
@@ -229,7 +229,7 @@ GitHub：<https://github.com/Molunerfinn/PicGo> 。
   - 开发进度可以查看 [Projects](https://github.com/Molunerfinn/PicGo/projects)，会同步更新开发进度
   - 欢迎加入 [官方 Gitter 频道](https://gitter.im/picgo-all/PicGo?utm_source=share-link&utm_medium=link&utm_campaign=share-link) 与我交流
 
-**系统兼容**：Windows/Mac/Linux 。
+**系统兼容**：Windows/macOS/Linux 。
 
 **是否付费**：开源，免费。
 
@@ -249,7 +249,7 @@ ExifTool是一个独立于平台的Perl库，加上一个命令行应用程序�
 
 （ExifTool supports many different metadata formats including [EXIF](https://exiftool.org/TagNames/EXIF.html), [GPS](https://exiftool.org/TagNames/GPS.html), [IPTC](https://exiftool.org/TagNames/IPTC.html), [XMP](https://exiftool.org/TagNames/XMP.html), [JFIF](https://exiftool.org/TagNames/JFIF.html), [GeoTIFF](https://exiftool.org/TagNames/GeoTiff.html), [ICC Profile](https://exiftool.org/TagNames/ICC_Profile.html), [Photoshop IRB](https://exiftool.org/TagNames/Photoshop.html), [FlashPix](https://exiftool.org/TagNames/FlashPix.html), [AFCP](https://exiftool.org/TagNames/AFCP.html) and [ID3](https://exiftool.org/TagNames/ID3.html), [Lyrics3](https://exiftool.org/TagNames/ID3.html#Lyrics3), as well as the maker notes of many digital cameras by [Canon](https://exiftool.org/TagNames/Canon.html), [Casio](https://exiftool.org/TagNames/Casio.html), [DJI](https://exiftool.org/TagNames/DJI.html), [FLIR](https://exiftool.org/TagNames/FLIR.html), [FujiFilm](https://exiftool.org/TagNames/FujiFilm.html), [GE](https://exiftool.org/TagNames/GE.html), [GoPro](https://exiftool.org/TagNames/GoPro.html), [HP](https://exiftool.org/TagNames/HP.html), [JVC/Victor](https://exiftool.org/TagNames/JVC.html), [Kodak](https://exiftool.org/TagNames/Kodak.html), [Leaf](https://exiftool.org/TagNames/Leaf.html), [Minolta/Konica-Minolta](https://exiftool.org/TagNames/Minolta.html), [Motorola](https://exiftool.org/TagNames/Motorola.html), [Nikon](https://exiftool.org/TagNames/Nikon.html), [Nintendo](https://exiftool.org/TagNames/Nintendo.html), [Olympus/Epson](https://exiftool.org/TagNames/Olympus.html), [Panasonic/Leica](https://exiftool.org/TagNames/Panasonic.html), [Pentax/Asahi](https://exiftool.org/TagNames/Pentax.html), [Phase One](https://exiftool.org/TagNames/PhaseOne.html), [Reconyx](https://exiftool.org/TagNames/Reconyx.html), [Ricoh](https://exiftool.org/TagNames/Ricoh.html), [Samsung](https://exiftool.org/TagNames/Samsung.html), [Sanyo](https://exiftool.org/TagNames/Sanyo.html), [Sigma/Foveon](https://exiftool.org/TagNames/Sigma.html) and [Sony](https://exiftool.org/TagNames/Sony.html).）
 
-**系统兼容**：Windows/Mac/Linux 。
+**系统兼容**：Windows/macOS/Linux 。
 
 **是否付费**：开源，免费。
 
@@ -289,7 +289,7 @@ Git 是一个免费的开源分布式版本控制系统，旨在快速高效地�
 
 ![image-20210711195749232](assets/image-20210711195749232.png)
 
-**系统兼容**：Windows/Mac/Linux 。
+**系统兼容**：Windows/macOS/Linux 。
 
 #### 相关工具
 
@@ -307,30 +307,76 @@ github-markdown-toc：<https://github.com/ekalinin/github-markdown-toc>
 
 ##### 移除历史中已经删除的大文件
 
-https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
+<https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository> 
 
-工具bfg：https://rtyley.github.io/bfg-repo-cleaner/
+工具bfg：<https://rtyley.github.io/bfg-repo-cleaner/> 
 
 ### IntelliJ--开发套件
+
+![image-20210711202959353](assets/image-20210711202959353.png)
 
 官网：<https://www.jetbrains.com/>
 
 软件开发人员和团队的基本工具。
 
-![image-20210711202959353](assets/image-20210711202959353.png)
-
 有多种开发工具，适用于多种常用的编程语言，而且各种插件很成熟。
 
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/)：Java
-
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)：Java, Kotlin, Groovy, Scala
+- [PhpStorm](https://www.jetbrains.com/phpstorm/)：Php
 - [PyCharm](https://www.jetbrains.com/pycharm/)：Python
-
+- [Rider](https://www.jetbrains.com/rider/)：.NET
+- [RubyMine](https://www.jetbrains.com/ruby/)：Ruby and Rails, JavaScript and CoffeeScript, ERB and HAML, CSS, Sass and Less, and more.
 - [WebStorm](https://www.jetbrains.com/webstorm/)：JavaScript 
 
-- [PhpStorm](https://www.jetbrains.com/phpstorm/)：Php
+#### IntelliJ IDEA
 
+![image-20220201224327572](assets/image-20220201224327572.png)
 
-### HTTP Debugger
+**官网**：<https://www.jetbrains.com/idea/>
+
+**系统兼容**：Windows/macOS/Linux 。
+
+**是否付费**：社区版（Community）免费；最终版（Ultimate）30天试用+会员。
+
+**下载**：<https://www.jetbrains.com/idea/download/#section=windows>。
+
+#### PyCharm
+
+![image-20220201224854002](assets/image-20220201224854002.png)
+
+**官网**：<https://www.jetbrains.com/pycharm/>
+
+**系统兼容**：Windows/macOS/Linux 。
+
+**是否付费**：社区版（Community）免费，专业版（Professional）付费。
+
+**下载**：<https://www.jetbrains.com/pycharm/download/#section=windows>。
+
+#### WebStorm
+
+![image-20220201224732053](assets/image-20220201224732053.png)
+
+**官网**：<https://www.jetbrains.com/webstorm/>
+
+**系统兼容**：Windows/macOS/Linux 。
+
+**是否付费**：30天试用+会员。
+
+**下载**：<https://www.jetbrains.com/webstorm/download/#section=windows>。
+
+#### PhpStorm
+
+![image-20220201224646963](assets/image-20220201224646963.png)
+
+**官网**：<https://www.jetbrains.com/phpstorm/>
+
+**系统兼容**：Windows/macOS/Linux 。
+
+**是否付费**：30天试用+会员。
+
+**下载**：<https://www.jetbrains.com/phpstorm/download/#section=windows>。
+
+### HTTP Debugger--抓包工具
 
 ![image-20210711204751009](assets/image-20210711204751009.png)
 
@@ -350,9 +396,9 @@ https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-
 
 **系统兼容**：Windows 。
 
-**是否付费**：。
+**是否付费**：7天试用+会员。
 
-**下载**： <> 。
+**下载**： <https://www.httpdebugger.com/downloads/HTTPDebuggerPro.msi> 。
 
 ## 文件对比工具
 
@@ -369,9 +415,9 @@ Beyond Compare是一个多平台实用程序，它将目录比较和文件比较
 
 试用一段时间后需要付费。
 
-**系统兼容**：Windows/Mac/Linux。
+**系统兼容**：Windows/macOS/Linux。
 
-**是否付费**：下载是免费的30天试用版，当购买了许可证后可以永久使用。
+**是否付费**：30天试用+会员。
 
 **下载**： <https://www.scootersoftware.com/download.php> 。
 
@@ -388,7 +434,7 @@ WinMerge是一个开源的Windows差异和合并工具。WinMerge可以比较文
 
 **系统兼容**：Windows 。
 
-**是否付费**：免费。
+**是否付费**：开源，免费。
 
 **下载**： <https://github.com/WinMerge/winmerge/releases/download/v2.16.18/WinMerge-2.16.18-Setup.exe> 。
 
@@ -403,7 +449,7 @@ WinMerge是一个开源的Windows差异和合并工具。WinMerge可以比较文
 
 Navicat Premium 15 是一套多连接数据库开发工具，让你在单一应用程序中同时连接多达七种数据库：MySQL、MariaDB、MongoDB、SQL Server、SQLite、Oracle 和 PostgreSQL，可一次快速方便地访问所有数据库。
 
-**系统兼容**：Windows/Mac/Linux 。
+**系统兼容**：Windows/macOS/Linux 。
 
 **是否付费**：14天体验+会员。
 
