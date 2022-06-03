@@ -128,6 +128,24 @@ FastStone Capture（FSCapture）是一种图像查看器，编辑器和屏幕截
 
 **下载**：<https://tianruo.lanzoux.com/b0mn2zif> 。
 
+## 视频工具
+
+### FFmpeg--视频压缩工具
+
+![image-20220201230530834](assets/image-20220201230530834.png)
+
+**官网**： <https://ffmpeg.org/>。
+
+**GitHub**：<https://git.ffmpeg.org/ffmpeg.git>，<https://github.com/FFmpeg/FFmpeg>。
+
+FFmpeg 是一个库和工具的集合，用于处理音频、视频、字幕和相关元数据等多媒体内容。
+
+**系统兼容**：Windows/macOS/Linux 。
+
+**是否付费**：开源，免费。
+
+**下载**：<https://github.com/FFmpeg/FFmpeg/releases>。
+
 ## 文件管理工具
 
 ### WizTree--磁盘空间分析器
