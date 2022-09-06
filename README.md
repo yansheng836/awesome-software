@@ -287,6 +287,20 @@ Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可�
 
 **下载**：<https://github.com/zhongyang219/TrafficMonitor/releases> 。
 
+### Itraffic--Mac网速监控软件
+
+![](assets/ITraffic-monitor-for-mac.png)
+
+官网/GitHub：<https://github.com/foamzou/ITraffic-monitor-for-mac> 。
+
+能够在 mac 平台下，实时观测到每个进程的网络速率。SwiftUI 编写，适配暗黑主题。
+
+**系统兼容**：mac。
+
+**是否付费**：开源，免费。
+
+**下载**：<https://github.com/foamzou/ITraffic-monitor-for-mac/releases> 。
+
 ## 开发工具
 
 ### Git--版本控制系统
