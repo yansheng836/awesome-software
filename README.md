@@ -4,7 +4,7 @@
 
 # Awesome Software
 
-![Awesome](./media/awesome.svg) [![chinese](./media/chinese.svg)](https://github.com/yansheng836/awesome-software/blob/master/README.md) [![english](./media/english.svg)](https://github.com/yansheng836/awesome-software/blob/master/README-en.md) 
+![Awesome](./media/awesome.svg) [![chinese](./media/chinese.svg)](https://github.com/yansheng836/awesome-software/blob/master/README.md) [![english](./media/english.svg)](https://github.com/yansheng836/awesome-software/blob/master/README-en.md) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6558c8a45fe44039a5650aa9c7788587)](https://www.codacy.com/gh/yansheng836/awesome-software/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yansheng836/awesome-software&amp;utm_campaign=Badge_Grade)
 
 优秀的软件。记录使用过的比较好用的软件，有免费的，也有付费的。
 
@@ -486,4 +486,8 @@ Navicat Premium 15 是一套多连接数据库开发工具，让你在单一应�
 **是否付费**：14天体验+会员。
 
 **下载**： <http://www.navicat.com.cn/download/navicat-premium> 。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yansheng836/awesome-software&type=Timeline)](https://star-history.com/#yansheng836/awesome-software&Timeline)
 
