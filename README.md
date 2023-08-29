@@ -16,7 +16,7 @@
 
 ## 搜索软件
 
-### Everything--win全局搜索
+### Everything--Win全局搜索
 
 ![image-20220201152624699](assets/image-20220201152624699.png)
 
@@ -34,7 +34,7 @@
 
 **下载**：<https://www.voidtools.com/zh-cn/downloads/> 。
 
-### Listary--win全局搜索
+### Listary--Win全局搜索
 
 ![image-20220201152323044](assets/image-20220201152323044.png)
 
@@ -72,6 +72,26 @@ Typora给您既是读者又是作家的无缝体验。它删除了预览窗口�
 
 **下载**：<https://www.typora.io/#download> 。
 
+### Obsidian--Markdown编辑器
+
+![image-20230830005846954](assets/image-20230830005846954.png)
+
+官网：<https://obsidian.md/> 。
+
+Obsidian is the private and flexible note‑taking app that adapts to the way you think.
+
+Obsidian是一款私人且灵活的笔记应用程序，可以适应你的思维方式。
+
+- 有丰富的插件和主题。
+- （付费：$8 per month）支持在任何设备和操作系统之间同步笔记。
+- （付费：$8 per month）支持发布文档到在线网站（发布 Wiki、知识库、文档或数字花园的最简单方法）。
+
+**系统兼容**：Windows/macOS/Linux/iOS/Android。
+
+**是否付费**：个人免费；商业版每人每年50$。
+
+**下载**：<https://obsidian.md/download> 。
+
 ### Notepad++--纯文本编辑器
 
 ![image-20210711203844696](assets/image-20210711203844696.png)
@@ -92,7 +112,7 @@ Notepad++ 是一个免费的源代码编辑器和支持多种语言的记事本�
 
 ## 图片工具
 
-### FastStone Capture--截图工具
+### FastStone Capture--截图工具、录屏工具
 
 ![image-20220201155525281](assets/image-20220201155525281.png)
 
@@ -160,9 +180,9 @@ FFmpeg 是一个库和工具的集合，用于处理音频、视频、字幕和�
 
 **系统兼容**：Windows。
 
-**是否付费**：。
+**是否付费**：个人免费。
 
-**下载**：<> 。
+**下载**：<https://www.diskanalyzer.com/download> 。
 
 ### Folder Explorer--文件树浏览
 
@@ -278,6 +298,8 @@ ExifTool是一个独立于平台的Perl库，加上一个命令行应用程序�
 ![image-20220201192234574](assets/image-20220201192234574.png)
 
 官网/GitHub：<https://github.com/zhongyang219/TrafficMonitor> 。
+
+插件：https://github.com/zhongyang219/TrafficMonitorPlugins。
 
 Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
 
