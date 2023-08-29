@@ -509,6 +509,30 @@ Navicat Premium 15 是一套多连接数据库开发工具，让你在单一应�
 
 **下载**： <http://www.navicat.com.cn/download/navicat-premium> 。
 
+### DBeaver
+
+![image-20230830013029633](assets/image-20230830013029633.png)
+
+官网：<https://dbeaver.io/>
+
+GitHub：<https://github.com/dbeaver/dbeaver>
+
+**Universal Database Tool**
+
+DBeaver Community is a free cross-platform database tool for developers, database administrators, analysts, and everyone working with data. It supports all popular SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more.
+
+通用数据库工具
+
+DBeaver社区是一个免费的跨平台数据库工具，适用于开发人员、数据库管理员、分析师和所有使用数据的人。它支持所有流行的SQL数据库，如MySQL, MariaDB, PostgreSQL, SQLite, Apache Family等。
+
+社区非常活跃，版本迭代块！
+
+**系统兼容**：Windows/MacOS/Linux 。
+
+**是否付费**：社区版免费，专业版付费（14天试用）。
+
+**下载**： <https://dbeaver.io/download/> 。
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yansheng836/awesome-software&type=Timeline)](https://star-history.com/#yansheng836/awesome-software&Timeline)
