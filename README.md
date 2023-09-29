@@ -323,6 +323,34 @@ Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可�
 
 **下载**：<https://github.com/foamzou/ITraffic-monitor-for-mac/releases> 。
 
+### StopUpdates10--禁用win10更新
+
+![image-20230929235016153](assets/image-20230929235016153.png)
+
+禁止win10更新：StopUpdates10_4.0.2023.306，参考：<https://www.52pojie.cn/thread-1777560-1-1.html>。
+
+虽然软件是win10时期开发的，但是现在也支持win11的。
+
+特点如下：
+
+- 停止 Windows 更新
+- 停止强制升级
+- 停止恼人的升级通知
+- 一键恢复更新、自定义暂停更新时长
+- StopUpdates10 不删除文件，不更改文件权限或其他破坏性操作、轻量、免费
+
+使用教程：安装时默认英文即可（安装时不要选繁体中文，有bug，会导致安装界面乱码），安装成功后去菜单里选简体中文。
+
+---
+
+官网：<https://greatis.com/stopupdates10/index.html> 。
+
+**系统兼容**：Windows。
+
+**是否付费**：免费(有付费版)。
+
+**下载**：<https://svn.lanzoue.com/i1ojz0trma6f> 。
+
 ## 开发工具
 
 ### Git--版本控制系统
