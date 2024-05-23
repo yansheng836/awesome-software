@@ -351,6 +351,32 @@ Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可�
 
 **下载**：<https://svn.lanzoue.com/i1ojz0trma6f> 。
 
+### WinMemoryCleaner--win内存清理
+
+![image-20240523162304734](assets/image-20240523162304734.png)
+
+GitHub：<https://github.com/IgorMundstein/WinMemoryCleaner>
+
+This free RAM cleaner uses native Windows features to clear memory areas. Sometimes, programs do not release the allocated memory, making the computer slow. That is when you use Windows Memory Cleaner to optimize the memory so you can keep working without wasting time restarting your system.
+
+The app has a minimalistic interface and smart features. It's portable, and you do not need to install it, but it requires administrator privileges to run. Click on the download button below and run the executable to get started.
+
+这个免费的RAM清洁器使用本地Windows功能来清除内存区域。有时，程序不释放分配的内存，使计算机变慢。这就是当你使用Windows内存清理器来优化内存，这样你就可以继续工作，而不浪费时间重新启动系统。
+
+这款应用具有简约的界面和智能功能。它是可移植的，您不需要安装它，但是它需要管理员权限才能运行。单击下面的下载按钮并运行可执行文件开始。
+
+**亮点**：
+
+- 免安装：就一个exe文件。
+- 小巧玲珑：exe文件仅268k。
+- 麻雀虽小五脏俱全：定时自动优化、按照使用率优化、排查部分软件。
+
+**系统兼容**：Windows。
+
+**是否付费**：免费。
+
+**下载**：<https://github.com/IgorMundstein/WinMemoryCleaner/releases/latest/download/WinMemoryCleaner.exe> 。
+
 ## 开发工具
 
 ### Git--版本控制系统
