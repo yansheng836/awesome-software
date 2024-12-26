@@ -27,10 +27,16 @@ jobs:
         echo "REPO_NAME=$repo_name" >> $GITHUB_ENV
         gitstats ./$repo_name gitstats-report
 
-    - name: Deploy to GitHub Pages
-      if: ${{ github.event_name == 'workflow_dispatch' }}
-      uses: peaceiris/actions-gh-pages@v4
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: gitstats-report
-        destination_dir: examples/${{ env.REPO_NAME }}
+    - name: Commit and Push Report to Current Branch
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        
+        # Stage the generated gitstats-report
+        git add gitstats-report
+        git commit -m "Add GitStats report"
+        
+        # Push to the current branch
+        git push origin HEAD:${{ github.ref }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
