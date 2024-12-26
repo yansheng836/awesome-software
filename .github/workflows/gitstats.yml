@@ -1,4 +1,4 @@
-name: GitStats Examples
+name: GitStats Report
 
 on:
   workflow_dispatch:

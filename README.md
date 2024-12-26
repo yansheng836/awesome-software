@@ -4,7 +4,7 @@
 
 # Awesome Software
 
-![Awesome](./media/awesome.svg) [![chinese](./media/chinese.svg)](https://github.com/yansheng836/awesome-software/blob/master/README.md) [![english](./media/english.svg)](https://github.com/yansheng836/awesome-software/blob/master/README-en.md) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6558c8a45fe44039a5650aa9c7788587)](https://www.codacy.com/gh/yansheng836/awesome-software/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yansheng836/awesome-software&amp;utm_campaign=Badge_Grade)
+![Awesome](./media/awesome.svg) [![chinese](./media/chinese.svg)](https://github.com/yansheng836/awesome-software/blob/master/README.md) [![english](./media/english.svg)](https://github.com/yansheng836/awesome-software/blob/master/README-en.md) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6558c8a45fe44039a5650aa9c7788587)](https://www.codacy.com/gh/yansheng836/awesome-software/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yansheng836/awesome-software&amp;utm_campaign=Badge_Grade) [![Action Badge](https://github.com/yansheng836/awesome-software/actions/workflows/gitstats.yml/badge.svg)](https://yansheng836.github.io/awesome-software/gitstats-report/index.html)
 
 优秀的软件。记录使用过的比较好用的软件，有免费的，也有付费的。
 
