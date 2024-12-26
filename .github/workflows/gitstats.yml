@@ -1,20 +1,19 @@
-name: GitStats Preview
+name: GitStats Examples
 
 on:
-  cron:
-    - cron: '0 0 * * 0'  # Run at every sunday at 00:00
   workflow_dispatch:
+    inputs:
+      name:
+        description: 'The repo path to clone'
+        required: false
+        default: 'https://github.com/jenkinsci/jenkins.git'
+        type: string
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0 # get all history.
-
     - name: Install Dependencies
       run: |
         sudo apt-get update
@@ -23,10 +22,15 @@ jobs:
     - name: Generate GitStats Report
       run: |
         pipx install gitstats
-        gitstats . gitstats-report
+        git clone ${{ inputs.name }}
+        repo_name=$(basename -s .git "${{ inputs.name }}")
+        echo "REPO_NAME=$repo_name" >> $GITHUB_ENV
+        gitstats ./$repo_name gitstats-report
 
-    - name: Deploy to GitHub Pages for view
+    - name: Deploy to GitHub Pages
+      if: ${{ github.event_name == 'workflow_dispatch' }}
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: gitstats-report
+        destination_dir: examples/${{ env.REPO_NAME }}
