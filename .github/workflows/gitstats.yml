@@ -29,9 +29,15 @@ jobs:
         #gitstats ./$repo_name gitstats-report
         cd ./$repo_name
         gitstats ./ ./gitstats-report
+        
+        git config --global user.email "sheng.yan836@gmail.com"
+        git config --global user.name "yansheng836"
+        
         git add .
         git commit -m "deploy: gitstats-report"
         git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Deploy to GitHub Pages
       if: ${{ github.event_name == 'workflow_dispatch' }}
