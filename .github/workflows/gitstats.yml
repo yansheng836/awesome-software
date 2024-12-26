@@ -32,6 +32,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: main  # default: gh-pages
+        publish_branch: main         # default: gh-pages
+        publish_dir: gitstats-report # default: public
         #destination_dir: examples/${{ env.REPO_NAME }} # gh-pages/examples/jenkins
         destination_dir: gitstats-report
