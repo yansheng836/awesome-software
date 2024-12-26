@@ -20,20 +20,25 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y gnuplot
 
-    - name: Generate GitStats Report
+    - name: Generate GitStats Report and deploy
       run: |
         pipx install gitstats
         git clone ${{ inputs.name }}
         repo_name=$(basename -s .git "${{ inputs.name }}")
         echo "REPO_NAME=$repo_name" >> $GITHUB_ENV
-        gitstats ./$repo_name gitstats-report
+        #gitstats ./$repo_name gitstats-report
+        cd ./$repo_name
+        gitstats ./ ./gitstats-report
+        git add .
+        git commit -m "deploy: gitstats-report"
+        git push origin main
 
     - name: Deploy to GitHub Pages
       if: ${{ github.event_name == 'workflow_dispatch' }}
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: main         # default: gh-pages
+        publish_branch: main         # default: gh-pages，这个好像会全部清掉，如果是主分支会有问题
         #publish_dir: gitstats-report # default: public
         publish_dir: ./ # default: public
         #destination_dir: examples/${{ env.REPO_NAME }} # gh-pages/examples/jenkins
