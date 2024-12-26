@@ -35,17 +35,19 @@ jobs:
         
         git add .
         git commit -m "deploy: gitstats-report"
-        git push origin main
+        #git push origin main
+        # Push changes to the repository using GITHUB_TOKEN
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Deploy to GitHub Pages
-      if: ${{ github.event_name == 'workflow_dispatch' }}
-      uses: peaceiris/actions-gh-pages@v4
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: main         # default: gh-pages，这个好像会全部清掉，如果是主分支会有问题
-        #publish_dir: gitstats-report # default: public
-        publish_dir: ./ # default: public
+    #- name: Deploy to GitHub Pages
+    #  if: ${{ github.event_name == 'workflow_dispatch' }}
+    #  uses: peaceiris/actions-gh-pages@v4
+    #  with:
+    #    github_token: ${{ secrets.GITHUB_TOKEN }}
+    #    publish_branch: main         # default: gh-pages，这个好像会全部清掉，如果是主分支会有问题
+    #    #publish_dir: gitstats-report # default: public
+    #    publish_dir: ./ # default: public
         #destination_dir: examples/${{ env.REPO_NAME }} # gh-pages/examples/jenkins
         #destination_dir: gitstats-report
