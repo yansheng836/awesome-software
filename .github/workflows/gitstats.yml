@@ -6,7 +6,8 @@ on:
       name:
         description: 'The repo path to clone'
         required: false
-        default: 'https://github.com/jenkinsci/jenkins.git'
+        #default: 'https://github.com/jenkinsci/jenkins.git'
+        default: 'https://github.com/yansheng836/awesome-software'
         type: string
 
 jobs:
@@ -33,6 +34,7 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_branch: main         # default: gh-pages
-        publish_dir: gitstats-report # default: public
+        #publish_dir: gitstats-report # default: public
+        publish_dir: ./ # default: public
         #destination_dir: examples/${{ env.REPO_NAME }} # gh-pages/examples/jenkins
-        destination_dir: gitstats-report
+        #destination_dir: gitstats-report
