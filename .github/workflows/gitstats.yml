@@ -17,6 +17,7 @@ jobs:
     steps:
     - name: Install Dependencies
       run: |
+        export TZ="Asia/Shanghai"
         sudo apt-get update
         sudo apt-get install -y gnuplot
 
