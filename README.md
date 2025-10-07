@@ -587,6 +587,35 @@ DBeaver社区是一个免费的跨平台数据库工具，适用于开发人员�
 
 **下载**： <https://dbeaver.io/download/> 。
 
+## 其他工具
+
+### clash-verge-rev
+
+![image-20251007225534689](assets/image-20251007225534689.png)
+
+官网：<https://www.clashverge.dev>
+
+GitHub：<https://github.com/clash-verge-rev/clash-verge-rev>
+
+A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience.
+
+一个基于Tauri的现代GUI客户端，旨在在Windows、macOS和Linux上运行，以提供定制的代理体验。
+
+#### 特性
+
+- 内置[Clash.Meta(mihomo)](https://github.com/MetaCubeX/mihomo)内核，并支持切换 `Alpha` 版本内核。
+- 简洁美观的用户界面，支持自定义主题颜色、代理组/托盘图标以及 `CSS Injection`。
+- 配置文件管理和增强（Merge 和 Script），配置文件语法提示。
+- 系统代理和守卫、`TUN(虚拟网卡)` 模式。
+- 可视化节点和规则编辑。
+- WebDav 配置备份和同步。
+
+**系统兼容**：Windows/MacOS/Linux 。
+
+**是否付费**：免费。
+
+**下载**： <https://github.com/clash-verge-rev/clash-verge-rev/releases/latest> 。
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yansheng836/awesome-software&type=Timeline)](https://star-history.com/#yansheng836/awesome-software&Timeline)
